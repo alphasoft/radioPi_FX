@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ org.eclipse.fx.ide.css.jfx8_2.1.0.201508240705.jar
+Class-Path: .
+Rsrc-Main-Class: application.Main
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
